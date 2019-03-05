@@ -1,4 +1,11 @@
 # WIP-simulation
+
+There are two subtitle in this repository.
+
+First one is balance.
+
+The other one is path following.
+
 Use CMAC, BELC and sliding control wheeled inverted pendulum to balance and path following.
 
 Study base on [1], [2], [3] and [4] ,then modify the structure to accomplish the simulation.
