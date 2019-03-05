@@ -32,7 +32,7 @@ Matlab2014a
  
  If everything is fine, it should look like these.
  ![control_signal](https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/balance/figures/control.jpg)
- 
+ ![angle](https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/balance/figures/tilt_angle.jpg)
  
 ### Try path following
 
