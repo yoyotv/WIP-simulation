@@ -11,17 +11,17 @@ Matlab2014a
 
 ### Try
 
-* Model: PID --
-  ``` Run " pid_balance.m "```
+* Model: PID ------------------
+  ` Run " pid_balance.m "`
 
-* Model: CMAC-----------------
- `* Run " cmac_balance.m "`
+* Model: CMAC------------------
+ ` Run " cmac_balance.m "`
 
 * Model: BELC------------------
- Run " BELC_balance "
+ `Run " BELC_balance "`
 
-* Model: RBELC
- Run " RBELC_balance.m "
+* Model: RBELC-----------------
+ `Run " RBELC_balance.m "`
 
 ### Scheme 
 
