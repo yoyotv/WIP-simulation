@@ -1,7 +1,7 @@
 # WIP-simulation
-use CMAC, BELC and sliding control to balance wheeled inverted pendulum
+Use CMAC, BELC and sliding control to balance wheeled inverted pendulum
 
-Study base on [1],[2],[3] and [4]   and revise the structure to accomplish the simulation.
+Study base on [1], [2], [3] and [4] ,then revise the structure to accomplish the simulation.
 
 ## GET started
 
@@ -11,17 +11,17 @@ Matlab2014a
 
 ### Try
 
-Model: PID
-* Run " pid_balance.m "
+* Model: PID
+ Run " pid_balance.m "
 
-Model: CMAC
-* Run " cmac_balance.m "
+* Model: CMAC
+ Run " cmac_balance.m "
 
-Model: BELC
-* Run " BELC_balance "
+* Model: BELC
+ Run " BELC_balance "
 
-Model: RBELC
-* Run " RBELC_balance.m "
+* Model: RBELC
+ Run " RBELC_balance.m "
 
 ### Scheme 
 
