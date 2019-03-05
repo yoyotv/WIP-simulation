@@ -31,7 +31,7 @@ Matlab2014a
  `Run " RBELC_balance.m "`
  
  If everything is fine, it should look like these.
- https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/balance/figures/control.jpg
+ [control_signal]https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/balance/figures/control.jpg
  
  
 ### Try path following
