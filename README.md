@@ -11,8 +11,8 @@ Matlab2014a
 
 ### Try
 
-* Model: PID
- * ``` Run " pid_balance.m "```
+* Model: PID --
+  ``` Run " pid_balance.m "```
 
 * Model: CMAC
  * Run " cmac_balance.m "
