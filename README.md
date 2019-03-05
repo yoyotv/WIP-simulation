@@ -9,7 +9,7 @@ Success in :
 
 Matlab2014a
 
-### Try
+### Try balance
 
 * Model: PID --------------------
   ` Run " pid_balance.m "`
@@ -22,6 +22,14 @@ Matlab2014a
 
 * Model: RBELC-----------------
  `Run " RBELC_balance.m "`
+ 
+### Try path following
+
+* Model: RCMAC-----------------
+ ` Run " cmac_balance.m "`
+
+* Model: RBELC-------------------
+ `Run " BELC_balance "`
 
 ### Scheme 
 
