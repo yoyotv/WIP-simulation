@@ -26,14 +26,16 @@ Matlab2014a
 ### Try path following
 
 * Model: RCMAC-----------------
- ` Run " cmac_balance.m "`
+ ` Run " indoor_decoupled_ieee_good_track_2_hybird_rcmac_2_zc.m "`
 
 * Model: RBELC-------------------
- `Run " BELC_balance "`
+ `Run " indoor_decoupled_ieee_good_track_2_hybird_brain_2_zc_w.m "`
 
 ### Scheme 
 
-Feed sliding function as the controller input to balance the WIP.  
+Feed sliding function as the controller input to balance the WIP. 
+
+Use hybrid control (CMAC+Robust) to follow the route.
 
 ### Paramater
 
