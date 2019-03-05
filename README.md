@@ -29,7 +29,7 @@ Matlab2014a
  ` Run " indoor_decoupled_ieee_good_track_2_hybird_rcmac_2_zc.m "`
 
 * Model: RBELC-------------------
- `Run " indoor_decoupled_ieee_good_track_2_hybird_brain_2_zc_w.m "`
+ `Run " indoor_decoupled_ieee_good_track_2_hybird_rbrain_2_zc_w.m "`
 
 ### Scheme 
 
