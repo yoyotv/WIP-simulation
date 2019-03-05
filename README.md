@@ -35,7 +35,7 @@ Matlab2014a
 
 Feed sliding function as the controller input to balance the WIP. 
 
-Use hybrid control (CMAC+Robust) to follow the route.
+Use hybrid control (CMAC/BELC+Robust) to follow the route.
 
 ### Paramater
 
