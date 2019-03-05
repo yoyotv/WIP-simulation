@@ -14,10 +14,10 @@ Matlab2014a
 * Model: PID --
   ``` Run " pid_balance.m "```
 
-* Model: CMAC
- * Run " cmac_balance.m "
+* Model: CMAC-----------------
+ `* Run " cmac_balance.m "`
 
-* Model: BELC
+* Model: BELC------------------
  Run " BELC_balance "
 
 * Model: RBELC
