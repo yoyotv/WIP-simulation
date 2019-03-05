@@ -41,6 +41,10 @@ Matlab2014a
 
 * Model: RBELC-------------------
  `Run " indoor_decoupled_ieee_good_track_2_hybird_rbrain_2_zc_w.m "`
+ 
+  If everything is fine, it should look like these.
+  ![rbrain](https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/path%20following/figure/rbrain_trajectory.jpg)
+  ![rcmac](https://raw.githubusercontent.com/yoyotv/WIP-simulation/master/path%20following/figure/rcmac_trajectory.jpg)
 
 ### Scheme 
 
