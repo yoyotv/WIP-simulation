@@ -1,5 +1,5 @@
 # WIP-simulation
-Use CMAC, BELC and sliding control to balance wheeled inverted pendulum
+Use CMAC, BELC and sliding control wheeled inverted pendulum to balance and path following.
 
 Study base on [1], [2], [3] and [4] ,then revise the structure to accomplish the simulation.
 
