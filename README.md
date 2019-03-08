@@ -25,7 +25,7 @@ Matlab2014a
  ` Run " cmac_balance.m "`
 
 * Model: BELC-------------------
- `Run " BELC_balance "`
+ `Run " BELC_balance.m"`
 
 * Model: RBELC-----------------
  `Run " RBELC_balance.m "`
